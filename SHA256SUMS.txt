@@ -37,4 +37,4 @@ ca437e44ba2f2b5a564fcf9a37178e791a559c5c48ba0f8e47cef6e997fcc0d9  02-radar-fpga/
 d3532264e3dfff04b66fcca80cbffa6fe6ded6473271f618295585fafceca32c  02-radar-fpga/rtl/uart_rx.sv
 2cd4c161e298d71d975bdddedf721c7b4623acdf6275b698f0df392614392285  02-radar-fpga/rtl/uart_tx.sv
 9becdcdb20b99d207c8e3667d56c01a7c2f3568440a6ce4471fbd8b867b5be23  02-radar-fpga/scripts/build.tcl
-783bfda0132b8a55e8e8a6ee03562e96b6bbff2269ce38fae1fda4eeb9cca946  README.md
+bbee1f6333eff3d75acb1dc1b28a85743e1ec520311491ce731461df845492ca  README.md
