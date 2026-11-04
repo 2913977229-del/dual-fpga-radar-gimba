@@ -42,10 +42,10 @@ cd 02-radar-fpga
 vivado -mode batch -source scripts/build.tcl
 ```
 
-只构建，不连硬件不烧录。摄像头工程的两个 `.xci` 是重建 IP 用的，雷达工程的 `.mem` 是功能资源。路径别带空格。
+只构建，不连硬件不烧录。摄像头工程的两个 `.xci` 是重建 IP 用的，雷达工程的 `.mem` 是功能资源。。
 
 ## 版本
 
-摄像头工程来自 2026-11-04 的 S3 构建，之前上板用的 bitstream SHA-256 是 `0d738a5f71ae2f4d1e5d21071cb88ae43b7e08d8c1421a51c6d1ded58d599a87`，bitstream 不在包里。雷达工程来自 2026-11-03 整理。包里没有仿真、生成工程、构建缓存和数据。
+
 
 未指定许可证。
